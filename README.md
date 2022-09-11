@@ -15,6 +15,10 @@ ems departmemt
 davis department
 apartments
 
+```
+Command: /pfix
+```
+
 
 
 ```
