@@ -9,13 +9,11 @@ polyzone - https://github.com/mkafrin/PolyZone
 
 ```
 ## supported areas
-```
 mrpd deparment
 ems departmemt
 davis department
 apartments
 
-```
 Command: /pfix
 ```
 
